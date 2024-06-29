@@ -1,5 +1,7 @@
 # Salary Predictor: Truth Identification using Polynomial Regression
 
+## A Supervised Machine Learning Regression Model. 
+
 ## Problem Statement
 
 As a member of the HR department, you are tasked with hiring a new employee who claims an expected salary of $160,000 per year based on their previous experience as a region manager. Your goal is to verify the truthfulness of this claim using a dataset that includes positions, levels, and corresponding salaries from their previous company.
