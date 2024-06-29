@@ -1,6 +1,6 @@
 # Salary Truth Predictor: Truth Identification using Polynomial Regression
 
-## A Supervised Machine Learning Regression Model. 
+## A Supervised Machine Learning Regression Model
 
 ## Problem Statement
 
