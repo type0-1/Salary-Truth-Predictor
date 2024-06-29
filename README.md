@@ -32,7 +32,7 @@ You aim to evaluate whether the candidate's salary expectation aligns with their
 ### Usage
 
 - Ensure Python is installed along with the necessary libraries listed in `requirements.txt`.
-- Run the Python script `salary_prediction.py` in a Jupyter Notebook or any Python environment.
+- Run the Python script `truth_or_bluff_polynomial_regression.py` in a Jupyter Notebook or any Python environment.
 - Review the generated plots to visually assess the predictions from linear and polynomial regression.
 - Check the printed output to see if the predicted salary aligns with the candidate's salary expectation, helping in decision-making during the hiring process.
 - **Note:** A Jupyter Notebook is also included in the "model" folder. If you prefer to use the Jupyter Notebook, you don't need to install `requirements.txt` separately.
