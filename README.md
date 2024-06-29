@@ -43,16 +43,16 @@ You aim to evaluate whether the candidate's salary expectation aligns with their
 ![Dataset](./Dataset.png)
 
 #### Predicted Salary using Linear Regression
-![Predicted Salary using Linear Regression](./PredictedUsingLinear.png)
+![Predicted Salary using Linear Regression](./images/PredictedUsingLinear.png)
 
 #### Predicted Salary using Polynomial Regression
-![Predicted Salary using Polynomial Regression](./PredictedUsingPolynomial.png)
+![Predicted Salary using Polynomial Regression](./images/PredictedUsingPolynomial.png)
 
 #### Truth or Bluff (Linear Regression)
-![Truth or Bluff (Linear Regression)](./TruthOrBluffLinear.png)
+![Truth or Bluff (Linear Regression)](./images/TruthOrBluffLinear.png)
 
 #### Truth or Bluff (Polynomial Regression)
-![Truth or Bluff (Polynomial Regression)](./TruthOrBluffPolynomial.png)
+![Truth or Bluff (Polynomial Regression)](./images/TruthOrBluffPolynomial.png)
 
 ### Directories Included
 
