@@ -1,4 +1,4 @@
-# Salary Prediction and Truth Detection using Polynomial Regression
+# Salary Predictor: Truth Identification using Polynomial Regression
 
 ## Problem Statement
 
