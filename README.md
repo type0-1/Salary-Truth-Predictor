@@ -40,7 +40,7 @@ You aim to evaluate whether the candidate's salary expectation aligns with their
 ### Screenshots
 
 #### Dataset
-![Dataset](./Dataset.png)
+![Dataset](./images/Dataset.png)
 
 #### Predicted Salary using Linear Regression
 ![Predicted Salary using Linear Regression](./images/PredictedUsingLinear.png)
