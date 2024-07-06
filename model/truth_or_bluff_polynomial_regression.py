@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression  # Linear Regression model
 from sklearn.preprocessing import PolynomialFeatures  # Polynomial Regression features
 
 # Initializing variables:
-dataset = pd.read_csv("../dataset/Position_Salaries.csv")  # Load dataset from CSV file
+dataset = pd.read_csv("./dataset/Position_Salaries.csv")  # Load dataset from CSV file
 x = dataset.iloc[:, 1:-1].values  # Features (independent variables)
 y = dataset.iloc[:, -1].values  # Dependent variable (target)
 
